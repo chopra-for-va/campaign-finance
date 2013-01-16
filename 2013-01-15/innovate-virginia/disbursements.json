@@ -1,0 +1,101 @@
+[
+	{
+		"Date Issued": "7/31/12",
+		"Amount": "1779.91",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "",
+		"Period": "Other",
+		"Purpose": "Salary",
+		"Contact Name": "Tristen Pegram"
+	},
+	{
+		"Date Issued": "7/25/12",
+		"Amount": "2088.62",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "",
+		"Period": "Other",
+		"Purpose": "Fundriasing Consulting",
+		"Contact Name": "LA Harris and Associates"
+	},
+	{
+		"Date Issued": "7/24/12",
+		"Amount": "440",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "",
+		"Period": "Other",
+		"Purpose": "Contribution Processing Fees",
+		"Contact Name": "First Merchant Services"
+	},
+	{
+		"Date Issued": "7/24/12",
+		"Amount": "51",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "",
+		"Period": "Other",
+		"Purpose": "Payroll Service Fee",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "7/24/12",
+		"Amount": "1128.49",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "",
+		"Period": "Other",
+		"Purpose": "Payroll Taxes",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "8/8/12",
+		"Amount": "44",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2012",
+		"Period": "Other",
+		"Purpose": "Payroll Service Fee",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "12/6/12",
+		"Amount": "13.5",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2012",
+		"Period": "Other",
+		"Purpose": "Service Fee",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "10/10/12",
+		"Amount": "44",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2012",
+		"Period": "Other",
+		"Purpose": "Service Fee",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "7/31/12",
+		"Amount": "554.63",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2012",
+		"Period": "Other",
+		"Purpose": "Salary",
+		"Contact Name": "Zach Heinselman"
+	},
+	{
+		"Date Issued": "1/7/13",
+		"Amount": "44175.49",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2012",
+		"Period": "Other",
+		"Purpose": "Political Contribution",
+		"Contact Name": "Chopra for Virginia"
+	},
+	{
+		"Date Issued": "10/10/12",
+		"Amount": "57",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2012",
+		"Period": "Other",
+		"Purpose": "Rental Insurance",
+		"Contact Name": "E-Renter Plan"
+	}
+]

@@ -1,0 +1,1379 @@
+[
+	{
+		"Date Issued": "8/31/12",
+		"Amount": "153.8",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Reimbursement - Travel Expenses",
+		"Contact Name": "Aneesh Chopra"
+	},
+	{
+		"Date Issued": "12/21/12",
+		"Amount": "50.03",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Employee Reimbursement - Travel",
+		"Contact Name": "Trey Nix"
+	},
+	{
+		"Date Issued": "12/31/12",
+		"Amount": "3434.16",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Trey Nix"
+	},
+	{
+		"Date Issued": "12/17/12",
+		"Amount": "3434.15",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Trey Nix"
+	},
+	{
+		"Date Issued": "8/20/12",
+		"Amount": "228.8",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Air Travel",
+		"Contact Name": "American Airlines"
+	},
+	{
+		"Date Issued": "8/23/12",
+		"Amount": "39",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Air Travel",
+		"Contact Name": "American Airlines"
+	},
+	{
+		"Date Issued": "9/27/12",
+		"Amount": "202.55",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Reimbursement - Event Catering",
+		"Contact Name": "Eric Payne"
+	},
+	{
+		"Date Issued": "8/17/12",
+		"Amount": "307.59",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Employee Reimbursement - Travel and Supplies",
+		"Contact Name": "Tristen Pegram"
+	},
+	{
+		"Date Issued": "8/17/12",
+		"Amount": "3388.26",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Tristen Pegram"
+	},
+	{
+		"Date Issued": "8/31/12",
+		"Amount": "1694.14",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Tristen Pegram"
+	},
+	{
+		"Date Issued": "9/14/12",
+		"Amount": "1327.21",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Tristen Pegram"
+	},
+	{
+		"Date Issued": "9/28/12",
+		"Amount": "1327.21",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Tristen Pegram"
+	},
+	{
+		"Date Issued": "10/12/12",
+		"Amount": "1327.21",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Tristen Pegram"
+	},
+	{
+		"Date Issued": "10/26/12",
+		"Amount": "1327.21",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Tristen Pegram"
+	},
+	{
+		"Date Issued": "11/9/12",
+		"Amount": "1327.21",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Tristen Pegram"
+	},
+	{
+		"Date Issued": "11/23/12",
+		"Amount": "1327.22",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Tristen Pegram"
+	},
+	{
+		"Date Issued": "12/7/12",
+		"Amount": "1327.21",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Tristen Pegram"
+	},
+	{
+		"Date Issued": "12/17/12",
+		"Amount": "710.16",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Tristen Pegram"
+	},
+	{
+		"Date Issued": "12/31/12",
+		"Amount": "1755.81",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Tristen Pegram"
+	},
+	{
+		"Date Issued": "12/18/12",
+		"Amount": "300",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Political Contribution - Event Tickets",
+		"Contact Name": "Fairfax County Democratic Committee"
+	},
+	{
+		"Date Issued": "8/3/12",
+		"Amount": "797.26",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Contribution Processing Fees",
+		"Contact Name": "First Merchant Services"
+	},
+	{
+		"Date Issued": "9/4/12",
+		"Amount": "101.11",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Contribution Processing Fees",
+		"Contact Name": "First Merchant Services"
+	},
+	{
+		"Date Issued": "10/3/12",
+		"Amount": "1247.09",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Contribution Processing Fees",
+		"Contact Name": "First Merchant Services"
+	},
+	{
+		"Date Issued": "11/5/12",
+		"Amount": "1325.78",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Contribution Processing Fees",
+		"Contact Name": "First Merchant Services"
+	},
+	{
+		"Date Issued": "12/3/12",
+		"Amount": "508.09",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Contribution Processing Fees",
+		"Contact Name": "First Merchant Services"
+	},
+	{
+		"Date Issued": "10/11/12",
+		"Amount": "461.96",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Office Equipment",
+		"Contact Name": "Best Buy"
+	},
+	{
+		"Date Issued": "7/13/12",
+		"Amount": "64.5",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "",
+		"Period": "Primary",
+		"Purpose": "Payroll Service Charge",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "7/15/12",
+		"Amount": "51",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Service Charge",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "8/20/12",
+		"Amount": "259",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Service Charge",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "8/29/12",
+		"Amount": "63.8",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Service Charge",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "9/14/12",
+		"Amount": "63.8",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Service Charge",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "9/28/12",
+		"Amount": "63.8",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Service Charge",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "10/11/12",
+		"Amount": "69.3",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Service Charge",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "10/25/12",
+		"Amount": "63.8",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Service Charge",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "11/5/12",
+		"Amount": "63.8",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Service Charge",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "11/21/12",
+		"Amount": "63.8",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Service Charge",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "12/6/12",
+		"Amount": "13.5",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Service Charge",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "12/7/12",
+		"Amount": "63.8",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Service Charge",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "12/18/12",
+		"Amount": "104",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Service Charge",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "12/31/12",
+		"Amount": "59",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Service Charge",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "10/11/12",
+		"Amount": "973.03",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Taxes",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "10/25/12",
+		"Amount": "937.8",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Taxes",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "11/5/12",
+		"Amount": "937.79",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Taxes",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "11/21/12",
+		"Amount": "937.78",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Taxes",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "12/7/12",
+		"Amount": "937.8",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Taxes",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "12/17/12",
+		"Amount": "4031.29",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Taxes",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "12/31/12",
+		"Amount": "4886.85",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Taxes",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "8/15/12",
+		"Amount": "2666.67",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Taxes",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "8/31/12",
+		"Amount": "1333.33",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Taxes",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "9/15/12",
+		"Amount": "1026.07",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Taxes",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "9/30/12",
+		"Amount": "990.81",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Payroll Taxes",
+		"Contact Name": "Paychex"
+	},
+	{
+		"Date Issued": "8/16/12",
+		"Amount": "34.94",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Bank Fee",
+		"Contact Name": "PNC Bank"
+	},
+	{
+		"Date Issued": "7/15/12",
+		"Amount": "25",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Online Hosting Service",
+		"Contact Name": "Google Inc."
+	},
+	{
+		"Date Issued": "10/2/12",
+		"Amount": "25",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Online Hosting Service",
+		"Contact Name": "Google Inc."
+	},
+	{
+		"Date Issued": "11/2/12",
+		"Amount": "25",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Online Hosting Service",
+		"Contact Name": "Google Inc."
+	},
+	{
+		"Date Issued": "7/1/12",
+		"Amount": "10.48",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Office Supplies",
+		"Contact Name": "Staples"
+	},
+	{
+		"Date Issued": "8/14/12",
+		"Amount": "51",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Office Supplies",
+		"Contact Name": "Staples"
+	},
+	{
+		"Date Issued": "10/31/12",
+		"Amount": "62.97",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Office Supplies",
+		"Contact Name": "Staples"
+	},
+	{
+		"Date Issued": "9/28/12",
+		"Amount": "90",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Postage",
+		"Contact Name": "United States Postal Service"
+	},
+	{
+		"Date Issued": "8/14/12",
+		"Amount": "2177.46",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Zach Heinselman"
+	},
+	{
+		"Date Issued": "8/31/12",
+		"Amount": "1088.73",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Zach Heinselman"
+	},
+	{
+		"Date Issued": "9/14/12",
+		"Amount": "1088.72",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Zach Heinselman"
+	},
+	{
+		"Date Issued": "9/28/12",
+		"Amount": "1088.74",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Zach Heinselman"
+	},
+	{
+		"Date Issued": "10/11/12",
+		"Amount": "1088.72",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Zach Heinselman"
+	},
+	{
+		"Date Issued": "10/25/12",
+		"Amount": "1088.73",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Zach Heinselman"
+	},
+	{
+		"Date Issued": "11/5/12",
+		"Amount": "1088.72",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Zach Heinselman"
+	},
+	{
+		"Date Issued": "11/21/12",
+		"Amount": "1088.73",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Zach Heinselman"
+	},
+	{
+		"Date Issued": "12/7/12",
+		"Amount": "1088.73",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Zach Heinselman"
+	},
+	{
+		"Date Issued": "12/17/12",
+		"Amount": "583.65",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Zach Heinselman"
+	},
+	{
+		"Date Issued": "12/31/12",
+		"Amount": "1360.54",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Zach Heinselman"
+	},
+	{
+		"Date Issued": "10/8/12",
+		"Amount": "1000",
+		"Disbursement Type": "Other",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Contribution Refund",
+		"Contact Name": "Rajiv Gupta"
+	},
+	{
+		"Date Issued": "8/14/12",
+		"Amount": "476.93",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Office Expenses - Printing/Telephone/Parking",
+		"Contact Name": "Metro Offices"
+	},
+	{
+		"Date Issued": "8/31/12",
+		"Amount": "224.76",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Office Expenses - Printing/Telephone/Parking",
+		"Contact Name": "Metro Offices"
+	},
+	{
+		"Date Issued": "9/27/12",
+		"Amount": "199.64",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Office Expenses - Printing/Telephone/Parking",
+		"Contact Name": "Metro Offices"
+	},
+	{
+		"Date Issued": "10/31/12",
+		"Amount": "197.7",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Office Expenses - Printing/Telephone/Parking",
+		"Contact Name": "Metro Offices"
+	},
+	{
+		"Date Issued": "11/26/12",
+		"Amount": "151.13",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Office Expenses - Printing/Telephone/Parking",
+		"Contact Name": "Metro Offices"
+	},
+	{
+		"Date Issued": "12/21/12",
+		"Amount": "668.89",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Office Expenses - Printing/Telephone/Parking",
+		"Contact Name": "Metro Offices"
+	},
+	{
+		"Date Issued": "9/27/12",
+		"Amount": "5150",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Consulting",
+		"Contact Name": "Craig Bieber"
+	},
+	{
+		"Date Issued": "10/31/12",
+		"Amount": "7200",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Consulting",
+		"Contact Name": "Craig Bieber"
+	},
+	{
+		"Date Issued": "12/7/12",
+		"Amount": "7200",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Consulting",
+		"Contact Name": "Craig Bieber"
+	},
+	{
+		"Date Issued": "12/17/12",
+		"Amount": "4500",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Consulting",
+		"Contact Name": "Craig Bieber"
+	},
+	{
+		"Date Issued": "12/17/12",
+		"Amount": "2672.12",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Caitlin Blair"
+	},
+	{
+		"Date Issued": "12/31/12",
+		"Amount": "2672.13",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Salary",
+		"Contact Name": "Caitlin Blair"
+	},
+	{
+		"Date Issued": "7/1/12",
+		"Amount": "39.8",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Gas",
+		"Contact Name": "7-Eleven"
+	},
+	{
+		"Date Issued": "8/31/12",
+		"Amount": "70",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Political Contribution - Event Tickets",
+		"Contact Name": "Arlinton Democratic Committee"
+	},
+	{
+		"Date Issued": "8/23/12",
+		"Amount": "123.2",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Lodging",
+		"Contact Name": "Cambria Suites Roanoke"
+	},
+	{
+		"Date Issued": "8/23/12",
+		"Amount": "123.2",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Lodging",
+		"Contact Name": "Cambria Suites Roanoke"
+	},
+	{
+		"Date Issued": "9/21/12",
+		"Amount": "61.6",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Lodging",
+		"Contact Name": "Cambria Suites Roanoke"
+	},
+	{
+		"Date Issued": "7/15/12",
+		"Amount": "14.7",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Meals",
+		"Contact Name": "Chick-fil-a"
+	},
+	{
+		"Date Issued": "8/30/12",
+		"Amount": "702",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Insurance",
+		"Contact Name": "Cincinnati Insurance"
+	},
+	{
+		"Date Issued": "9/27/12",
+		"Amount": "383.25",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Printing",
+		"Contact Name": "D&P Graphics"
+	},
+	{
+		"Date Issued": "9/28/12",
+		"Amount": "845.25",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Printing",
+		"Contact Name": "D&P Graphics"
+	},
+	{
+		"Date Issued": "8/29/12",
+		"Amount": "40",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Parking",
+		"Contact Name": "DCA Reagan Airport Parking"
+	},
+	{
+		"Date Issued": "8/9/12",
+		"Amount": "18000",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Voter File",
+		"Contact Name": "Democratic Party of Virginia"
+	},
+	{
+		"Date Issued": "8/2/12",
+		"Amount": "250",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Political Contribution",
+		"Contact Name": "DisABILITY Caucus of Virginia"
+	},
+	{
+		"Date Issued": "8/20/12",
+		"Amount": "4.5",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Toll",
+		"Contact Name": "Dulles QPS"
+	},
+	{
+		"Date Issued": "9/7/12",
+		"Amount": "52",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Travel - Taxi Service",
+		"Contact Name": "Dulles Taxi and Sedan"
+	},
+	{
+		"Date Issued": "9/6/12",
+		"Amount": "76",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Meals",
+		"Contact Name": "Ella's Restaurant"
+	},
+	{
+		"Date Issued": "9/6/12",
+		"Amount": "152.88",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Travel - Car Rental",
+		"Contact Name": "Enterprise Rent-a-Car"
+	},
+	{
+		"Date Issued": "9/27/12",
+		"Amount": "1000",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Contribution - Event Sponsorship",
+		"Contact Name": "Equality Virginia"
+	},
+	{
+		"Date Issued": "9/1/12",
+		"Amount": "51.62",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Travel - Gas",
+		"Contact Name": "Exxon"
+	},
+	{
+		"Date Issued": "8/13/12",
+		"Amount": "51.4",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Travel - Gas",
+		"Contact Name": "Exxon"
+	},
+	{
+		"Date Issued": "7/15/12",
+		"Amount": "30",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Email Hosting Service",
+		"Contact Name": "Google, Inc"
+	},
+	{
+		"Date Issued": "8/1/12",
+		"Amount": "30",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Email Hosting Service",
+		"Contact Name": "Google, Inc"
+	},
+	{
+		"Date Issued": "9/1/12",
+		"Amount": "30",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Email Hosting Service",
+		"Contact Name": "Google, Inc"
+	},
+	{
+		"Date Issued": "9/6/12",
+		"Amount": "19",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Travel - Parking",
+		"Contact Name": "Hearst Parking Center"
+	},
+	{
+		"Date Issued": "8/20/12",
+		"Amount": "53.49",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Food/Beverage",
+		"Contact Name": "Kroger"
+	},
+	{
+		"Date Issued": "11/26/12",
+		"Amount": "5920",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Website Production Services",
+		"Contact Name": "Modea"
+	},
+	{
+		"Date Issued": "7/15/12",
+		"Amount": "19",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Online Voter Outreach Service",
+		"Contact Name": "NationBuilder"
+	},
+	{
+		"Date Issued": "7/15/12",
+		"Amount": "79",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Online Voter Outreach Service",
+		"Contact Name": "NationBuilder"
+	},
+	{
+		"Date Issued": "7/15/12",
+		"Amount": "19",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Online Voter Outreach Service",
+		"Contact Name": "NationBuilder"
+	},
+	{
+		"Date Issued": "8/1/12",
+		"Amount": "19",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Online Voter Outreach Service",
+		"Contact Name": "NationBuilder"
+	},
+	{
+		"Date Issued": "8/19/12",
+		"Amount": "19",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Online Voter Outreach Service",
+		"Contact Name": "NationBuilder"
+	},
+	{
+		"Date Issued": "7/15/12",
+		"Amount": "19",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Online Voter Outreach Service",
+		"Contact Name": "NationBuilder"
+	},
+	{
+		"Date Issued": "9/19/12",
+		"Amount": "19",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Online Voter Outreach Service",
+		"Contact Name": "NationBuilder"
+	},
+	{
+		"Date Issued": "10/19/12",
+		"Amount": "19",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Online Voter Outreach Service",
+		"Contact Name": "NationBuilder"
+	},
+	{
+		"Date Issued": "8/13/12",
+		"Amount": "2900",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Database Service",
+		"Contact Name": "NGP VAN"
+	},
+	{
+		"Date Issued": "8/13/12",
+		"Amount": "300",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Database Service",
+		"Contact Name": "NGP VAN"
+	},
+	{
+		"Date Issued": "8/23/12",
+		"Amount": "162.8",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Air Travel",
+		"Contact Name": "United Airlines"
+	},
+	{
+		"Date Issued": "8/19/12",
+		"Amount": "289.8",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Air Travel",
+		"Contact Name": "United Airlines"
+	},
+	{
+		"Date Issued": "8/24/12",
+		"Amount": "383.6",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Air Travel",
+		"Contact Name": "US Airways"
+	},
+	{
+		"Date Issued": "7/16/12",
+		"Amount": "50.64",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Travel - Gas",
+		"Contact Name": "Shell"
+	},
+	{
+		"Date Issued": "8/23/12",
+		"Amount": "45",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Travel - Gas",
+		"Contact Name": "Shell"
+	},
+	{
+		"Date Issued": "9/24/12",
+		"Amount": "52.17",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Travel - Gas",
+		"Contact Name": "Shell"
+	},
+	{
+		"Date Issued": "9/1/12",
+		"Amount": "1500",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Lodging",
+		"Contact Name": "Sheraton Charlotte Airport"
+	},
+	{
+		"Date Issued": "9/1/12",
+		"Amount": "30.44",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Parking",
+		"Contact Name": "Sheraton Charlotte Airport"
+	},
+	{
+		"Date Issued": "9/6/12",
+		"Amount": "229.35",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Lodging",
+		"Contact Name": "Sheraton Charlotte Airport"
+	},
+	{
+		"Date Issued": "7/16/12",
+		"Amount": "18.77",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Meals",
+		"Contact Name": "Silver Diner Arlington"
+	},
+	{
+		"Date Issued": "8/14/12",
+		"Amount": "38.85",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Lodging",
+		"Contact Name": "Sleep Inn - Danville"
+	},
+	{
+		"Date Issued": "8/14/12",
+		"Amount": "38.84",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Lodging",
+		"Contact Name": "Sleep Inn - Danville"
+	},
+	{
+		"Date Issued": "7/15/12",
+		"Amount": "38.32",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Travel - Gas",
+		"Contact Name": "Sunoco Arlington"
+	},
+	{
+		"Date Issued": "8/31/12",
+		"Amount": "2250",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Compliance Services",
+		"Contact Name": "PoliOps"
+	},
+	{
+		"Date Issued": "9/27/12",
+		"Amount": "750",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Compliance Services",
+		"Contact Name": "PoliOps"
+	},
+	{
+		"Date Issued": "10/31/12",
+		"Amount": "750",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Compliance Services",
+		"Contact Name": "PoliOps"
+	},
+	{
+		"Date Issued": "11/26/12",
+		"Amount": "750",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Compliance Services",
+		"Contact Name": "PoliOps"
+	},
+	{
+		"Date Issued": "12/21/12",
+		"Amount": "2500",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Compliance Services",
+		"Contact Name": "PoliOps"
+	},
+	{
+		"Date Issued": "8/13/12",
+		"Amount": "48.54",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Travel - Gas",
+		"Contact Name": "QuickFuel - South Hill"
+	},
+	{
+		"Date Issued": "8/23/12",
+		"Amount": "130",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Political Contribution - Event Tickets",
+		"Contact Name": "Richmond City Democratic Committee"
+	},
+	{
+		"Date Issued": "7/15/12",
+		"Amount": "46",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Meals",
+		"Contact Name": "Sam Miller's Restaurant"
+	},
+	{
+		"Date Issued": "8/29/12",
+		"Amount": "2800",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Legal Services",
+		"Contact Name": "Sandler Reiff and Young"
+	},
+	{
+		"Date Issued": "12/17/12",
+		"Amount": "8723.5",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Legal Services",
+		"Contact Name": "Sandler Reiff and Young"
+	},
+	{
+		"Date Issued": "9/6/12",
+		"Amount": "6.25",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Parking",
+		"Contact Name": "SFMTA"
+	},
+	{
+		"Date Issued": "10/8/12",
+		"Amount": "20.11",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Meals",
+		"Contact Name": "Taco Bell - Stafford"
+	},
+	{
+		"Date Issued": "9/22/12",
+		"Amount": "24.64",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Travel - Taxi",
+		"Contact Name": "Alexandria Yellow Cab"
+	},
+	{
+		"Date Issued": "9/22/12",
+		"Amount": "26.72",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Travel - Gas",
+		"Contact Name": "Cherrydale Liberty"
+	},
+	{
+		"Date Issued": "9/24/12",
+		"Amount": "44.43",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Travel - Gas",
+		"Contact Name": "Chesterbrook Excel"
+	},
+	{
+		"Date Issued": "10/9/12",
+		"Amount": "55.13",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Travel - Gas",
+		"Contact Name": "7-11 Stafford"
+	},
+	{
+		"Date Issued": "9/22/12",
+		"Amount": "137.67",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Travel - Car Rental",
+		"Contact Name": "Avis Rent A Car"
+	},
+	{
+		"Date Issued": "10/11/12",
+		"Amount": "413.67",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Meals",
+		"Contact Name": "Bombay Tandoor Restaurant"
+	},
+	{
+		"Date Issued": "11/30/12",
+		"Amount": "4000",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Political Outreach Consulting Service",
+		"Contact Name": "Don Mark"
+	},
+	{
+		"Date Issued": "12/18/12",
+		"Amount": "3500",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Political Outreach Consulting Service",
+		"Contact Name": "Don Mark"
+	},
+	{
+		"Date Issued": "10/11/12",
+		"Amount": "90",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Political Contribution - Event Tickets",
+		"Contact Name": "8th District Democratic Committee"
+	},
+	{
+		"Date Issued": "10/9/12",
+		"Amount": "100",
+		"Disbursement Type": "Operating Expenditure",
+		"Cycle": "2013",
+		"Period": "Primary",
+		"Purpose": "Political Contribution - Event Tickets",
+		"Contact Name": "8th District Democratic Committee"
+	}
+]
